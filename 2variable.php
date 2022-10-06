@@ -18,15 +18,17 @@ echo $firstnumber;
 
 echo "<br>";
 
+// Creating Float data type variable and assigning value
 $firstfloat = 500.125;
+// Printing the variable in browser
 echo $firstfloat;
 
 echo "<br><br>Difference between double quotes and single quote<br>";
 
 echo 'Hello"s World$firstnumber';
 
-
 echo "<br>";
+
 echo "Bye's $firstnumber World";
 
 
